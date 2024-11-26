@@ -15,7 +15,7 @@ const server = http.createServer((req, res) => {
                 <title>Calculator</title>
             </head>
             <body>
-                <h1>Simple Calculator</h1>
+                <h1>simplecalculator</h1>
                 <form method="POST" action="/">
                     <label for="num1">Number 1:</label>
                     <input type="number" id="num1" name="num1" required>
